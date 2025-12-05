@@ -4,3 +4,5 @@ I am a student in Computer Science in Université Paris-Saclay. I am specializin
 
 ## My GitHub Stats
 [![](https://github-readme-stats.zcy.dev/api?username=PaulVerot03&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![](https://github-readme-stats.zcy.dev/api/top-langs/?username=PaulVerot03)](https://github.com/anuraghazra/github-readme-stats)
